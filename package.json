@@ -1,0 +1,15 @@
+{
+  "name": "rollup-morgan-bug",
+  "version": "0.1.0-dev.0",
+  "description": "Example code for bug report",
+  "author": "Fredrik Roubert <fredrik@roubert.name>",
+  "license": "MIT",
+  "dependencies": {
+    "morgan": "=1.10.0",
+    "rollup": "=2.29.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "=15.1.0",
+    "@rollup/plugin-node-resolve": "=9.0.0"
+  }
+}
